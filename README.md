@@ -1,4 +1,7 @@
 # 2024_OSS
 
-Hello, I'm Eugene Choi.
-My major is Information Convergence.
+2023204017 최유진
+오픈소스소프트웨어 실습과 과제를 위한 레포지토리입니다.
+
+>> 실습1. github
+>> HW 2. NginX
